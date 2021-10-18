@@ -1,5 +1,8 @@
 _repo: Virgil-Lucretius-Passages-translated-by-William-Stebbing_66399
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66399-h/images/cover.jpg
 creator:
   author:
     agent_name: Stebbing, W. (William)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '28352'
     url: http://www.gutenberg.org/2009/agents/28352
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66399#Virgil-Lucretius-Passages-translated-by-William-Stebbing
 gutenberg_issued: '2021-09-27'
 identifiers:
   gutenberg: '66399'
